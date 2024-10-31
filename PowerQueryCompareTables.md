@@ -46,7 +46,4 @@ ColumnNames needs to be a list of column names to compare, IDColumnName needs to
         FinalResult = Table.AddColumn(GroupedRows, "Compare", each if [CompareNum] = 1 then "Same" else if [CompareNum] = 2 then "Updated" else if [CompareNum] = 3 then "New" else "Missing")
     in
         FinalResult
-    ```
-
-    
-    
+```    
