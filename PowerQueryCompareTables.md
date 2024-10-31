@@ -6,6 +6,10 @@ Need to compare 2 tables, Current and Update, with a common unique id column and
 
 ColumnNames needs to be a list of column names to compare, IDColumnName needs to be the name of the common unique column in both tables.
 
+## Working Example
+
+[Excel file](<Sample Files/Compare Tables Example.xlsx>)
+
 ## Code
 
 ```
@@ -43,3 +47,6 @@ ColumnNames needs to be a list of column names to compare, IDColumnName needs to
     in
         FinalResult
     ```
+
+    
+    
