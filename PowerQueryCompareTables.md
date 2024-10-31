@@ -4,6 +4,8 @@
 
 Need to compare 2 tables, Current and Update, with a common unique id column and compare values in selected columns
 
+ColumnNames needs to be a list of column names to compare, IDColumnName needs to be the name of the common unique column in both tables.
+
 ## Code
 
 ```
