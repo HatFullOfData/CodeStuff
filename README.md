@@ -12,4 +12,4 @@ Useful code snippets that I don't want to loose.
 
 ## Microsoft Fabric Notebooks
 
-[Access SharePoint and via Microsoft Graph](<Sample Files/SharePoint and Excel via Microsoft Graph.py>)
+[Access SharePoint using Microsoft Graph](<Sample Files/Access SharePoint using Microsoft Graph.ipynb>)
